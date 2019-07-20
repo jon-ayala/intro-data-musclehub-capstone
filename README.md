@@ -22,7 +22,7 @@ Janet's hypothesis is that visitors assigned to Group B will be more likely to e
 
 I will help her analyze the data and create a presentation.
 
-Requirements:
+Skills:
 - matplotlib
 - pandas
 - numpy
